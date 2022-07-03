@@ -1,2 +1,0 @@
-# clientSide
-Client Side
